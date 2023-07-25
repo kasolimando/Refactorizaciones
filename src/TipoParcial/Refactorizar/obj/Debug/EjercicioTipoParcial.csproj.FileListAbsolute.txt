@@ -1,0 +1,16 @@
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\EjercicioTipoParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\EjercicioTipoParcial.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.abstractions.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.assert.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.core.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.execution.desktop.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.abstractions.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.assert.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.core.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\bin\Debug\xunit.execution.desktop.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.csproj.AssemblyReference.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.csproj.SuggestedBindingRedirects.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.csproj.CopyComplete
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\refactoring-to-patterns\RefactoringToPatterns\obj\Debug\EjercicioTipoParcial.pdb

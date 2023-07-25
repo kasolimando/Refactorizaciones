@@ -1,0 +1,12 @@
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\bin\Debug\net6.0\EjercicioParcial.deps.json
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\bin\Debug\net6.0\EjercicioParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\bin\Debug\net6.0\EjercicioParcial.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.csproj.AssemblyReference.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.GeneratedMSBuildEditorConfig.editorconfig
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.AssemblyInfoInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.AssemblyInfo.cs
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\refint\EjercicioParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\EjercicioParcial.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\Parcial__II\EjercicioParcial\RefactorExercises\obj\Debug\net6.0\ref\EjercicioParcial.dll

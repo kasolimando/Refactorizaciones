@@ -1,0 +1,34 @@
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\EjercicioParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\EjercicioParcial.pdb
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.abstractions.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.assert.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.core.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.execution.desktop.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.abstractions.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.assert.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.core.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\bin\Debug\xunit.execution.desktop.xml
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.AssemblyReference.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.SuggestedBindingRedirects.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.CoreCompileInputs.cache
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.CopyComplete
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.dll
+D:\UCAB\Desarrollo Software\Refactorizacion\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.pdb
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\EjercicioParcial.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\EjercicioParcial.pdb
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.abstractions.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.assert.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.core.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.assert.xml
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.core.xml
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.AssemblyReference.cache
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.CoreCompileInputs.cache
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.csproj.CopyComplete
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\obj\Debug\EjercicioParcial.pdb
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Katy\Pictures\TipoParcial\Refactorizar\bin\Debug\xunit.runner.utility.net452.dll
